@@ -1,0 +1,9 @@
+Comic-Fu is (will be) a collection of scripts designed to help comic
+artists using the GIMP (and potentially Inscape in the future) do
+their thing more easily.
+
+So far, it includes:
+
+- Make Fillable
+  Take a layer containing lines and make an alpha-free duplicate of
+  it, perfect for flood-filling.
